@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.companyname.flashcardapp",
-    "sha256_cert_fingerprints": ["45:EF:C9:9A:81:3C:92:2A:2E:68:E2:25:7D:A8:05:1E:C7:A3:E2:A1:5E:08:CD:42:2F:2B:1E:BF:CA:13:39:FF"]
+    "sha256_cert_fingerprints": ["F3:8D:77:99:80:B5:37:EF:07:BA:1D:FD:12:05:28:F4:17:10:6F:00:42:89:85:77:54:60:84:6A:7E:7F:CE:C1"]
   }
 }]
